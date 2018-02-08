@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "contacts_sqlite/addContactViewController.m"
+            timestampString = "529242780.216248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-saveContact:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[addContactViewController saveContact:]"
+                  moduleName = "contacts_sqlite"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student14/Documents/kaamini%203-5/Revision/contacts_sqlite/contacts_sqlite/addContactViewController.m"
+                  timestampString = "529242780.718384"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1073">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__40-[addContactViewController saveContact:]_block_invoke"
+                  moduleName = "contacts_sqlite"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student14/Documents/kaamini%203-5/Revision/contacts_sqlite/contacts_sqlite/addContactViewController.m"
+                  timestampString = "529242780.748289"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
